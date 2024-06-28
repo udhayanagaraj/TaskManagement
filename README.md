@@ -19,3 +19,4 @@ To run the Django app:
 4. Run the server
    for Linux - python3 manage.py runserver , for windows - python manage.py runserver 
   
+![Example Screenshot](home/udhaya-nagaraj/Pictures/Screenshots/Screenshot from 2024-06-28 13-56-06.png)
