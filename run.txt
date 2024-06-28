@@ -1,0 +1,22 @@
+This is a simple task management application
+
+clone the repository -[https://github.com/udhayanagaraj/TaskManagement.git] cd to repository
+
+*To run the React server:
+
+1. npm install in the terminal to install react
+2. npm run dev to run the server
+
+*To run the Django app:
+
+1. cd to backend/task_manager_project
+2. pip install -r requirements.txt
+
+*set up database 
+
+1. for Linux - python3 manage.py migrate , for windows - python manage.py migrate
+
+*Run the server 
+
+1. for Linux - python3 manage.py runserver , for windows - python manage.py runserver
+
