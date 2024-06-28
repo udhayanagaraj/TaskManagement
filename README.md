@@ -19,4 +19,8 @@ To run the Django app:
 4. Run the server
    for Linux - python3 manage.py runserver , for windows - python manage.py runserver 
   
-![Example Screenshot](home/udhaya-nagaraj/Pictures/Screenshots/Screenshot from 2024-06-28 13-56-06.png)
+![Home page] ![Screenshot from 2024-06-28 13-56-06](https://github.com/udhayanagaraj/TaskManagement/assets/85093772/3e28a334-cc8b-4dcb-b744-279c5e6432c4)
+
+![Add page] ![Screenshot from 2024-06-28 13-56-15](https://github.com/udhayanagaraj/TaskManagement/assets/85093772/2d623737-58d9-41fe-a003-8e4ba7260e90)
+
+![Edit page] ![Screenshot from 2024-06-28 13-56-23](https://github.com/udhayanagaraj/TaskManagement/assets/85093772/e0a3baa8-20b3-47f1-bc13-c65feca8f34c)
