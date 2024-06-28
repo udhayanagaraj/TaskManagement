@@ -1,13 +1,14 @@
 import './App.css'
 import { Header } from './components/Header'
-import { ToDo } from './components/ToDo'
+import ToDo from './components/ToDo'
 
 function App() {
  
   return (
     <>
-      <Header/>
+    <div>
       <ToDo/>
+    </div>
     </>
   )
 }
